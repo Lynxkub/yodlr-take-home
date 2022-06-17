@@ -1,4 +1,4 @@
-{
+ {
   "data": {
     "1" : { "id": 1, "email": "kyle@getyodlr.com", "firstName": "Kyle", "lastName": "White", "state": "active"},
     "2" : { "id": 2, "email": "jane@getyodlr.com", "firstName": "Jane", "lastName": "Stone", "state": "active"},
